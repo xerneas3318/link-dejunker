@@ -1,0 +1,16 @@
+# Local-only push instructions — never commit
+PUSH_INSTRUCTIONS.md
+
+# OS / editor cruft
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Dependencies / build
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.env
