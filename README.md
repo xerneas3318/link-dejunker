@@ -41,6 +41,17 @@ a few seconds of friction, done thousands of times across millions of people.
 - Leaves functional query params intact (e.g. `?q=`, `?id=`, `?page=`).
 - Optionally unwraps redirect/shim URLs back to the real destination.
 
+## Submission Requirements
+
+Reviewers will look for:
+
+1. A clear quality-of-life improvement
+2. A working and usable project
+3. Effort and thoughtful execution
+4. Clear explanation of the problem being solved
+5. Minimum 3 hours spent
+6. 3 major QoL improvements
+
 ## Status
 
 🚧 Early stage — scaffolding the core URL-cleaning logic first, then wiring up the
